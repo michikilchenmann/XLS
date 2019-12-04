@@ -1,4 +1,4 @@
-Excel Ribbon - daily workflow utilities and macro repository 
+VBA Toolbox - daily workflow utilities and macro repository 
 ================================
 
 ![title](screenshot.jpg)
